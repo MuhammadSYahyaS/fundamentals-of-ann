@@ -1,0 +1,10 @@
+ipywidgets>=7.0,<8.0
+jupyter
+notebook
+numpy
+pandas
+ray[tune,serve]
+scikit-learn
+tensorboard
+torch
+tqdm
